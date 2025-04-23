@@ -103,16 +103,17 @@ npm install
 Update .env with your DB credentials.
 
 4 Run backend:
-````bash
+```
 cd server
 npm start
 ```
 
 5. Run frontend:
-````bash
+```
 cd client
 npm run dev
-````
+```
+
 Visit: http://localhost:5173/AdminLogin //for Admins
 Visit: http://localhost:5173/UserLogin //for Users
 
