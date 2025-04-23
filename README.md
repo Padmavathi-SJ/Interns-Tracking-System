@@ -116,3 +116,7 @@ npm run dev
 Visit: http://localhost:5173/AdminLogin //for Admins
 Visit: http://localhost:5173/UserLogin //for Users
 
+👨‍💻 Developed by
+Your Name – github.com/Padmavathi-SJ
+Connect on LinkedIn - https://www.linkedin.com/in/padmavathisj/
+
